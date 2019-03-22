@@ -22,6 +22,13 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/01.pdf) 
    <hr />
 
+3. [22/03/19] Algoritmi e computabilità 
+   * slide: [Google Slides](https://tinyurl.com/bi1819-02)
+   * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/02.pdf) 
+   <hr />
+   
+      
+
 ### Calendario
 
 <table>
