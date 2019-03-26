@@ -26,8 +26,12 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/bi1819-02)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/02.pdf) 
    <hr />
+
+4. [26/03/19] Linguaggi di programmazione 
+   * slide: [Google Slides](https://tinyurl.com/bi1819-03)
+   * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/03.pdf) 
+   <hr />
    
-      
 
 ### Calendario
 
