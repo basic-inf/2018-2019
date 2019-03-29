@@ -31,6 +31,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/bi1819-03)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/03.pdf) 
    <hr />
+
+5. [29/03/19] Cosa succede quando si clicca un un link: Il World Wide Web 
+   * slide: [Google Slides](https://tinyurl.com/bi1819-04)
+   * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/04.pdf) 
+   <hr />
    
 
 ### Calendario
