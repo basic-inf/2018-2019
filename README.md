@@ -51,6 +51,10 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    * slide: [Google Slides](https://tinyurl.com/bi1819-07)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/07.pdf) 
    <hr />
+
+9. [12/04/19] Cosa succede quando si clicca un un link: Le pagine Web 
+   * slide: [Google Slides](https://tinyurl.com/bi1819-08-1) 
+   <hr />
    
 
 ### Calendario
