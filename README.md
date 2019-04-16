@@ -57,18 +57,18 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
    <hr />
 
 10. [16/04/19] Cosa succede quando si clicca un un link: Le pagine Web (2)
-   * slide: [Google Slides](https://tinyurl.com/bi1819-08-2) 
-   * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/08.pdf)
-   * materiale:
-     * [CSS Zen Garden](http://www.csszengarden.com/)
-   <hr />
+    * slide: [Google Slides](https://tinyurl.com/bi1819-08-2) 
+    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/08.pdf)
+    * materiale:
+      * [CSS Zen Garden](http://www.csszengarden.com/)
+    <hr />
 
 11. [16/04/19] Le tecnologie informatiche nelle scienze umane
-   * slide: [Google Slides](https://tinyurl.com/bi1819-09) 
-   * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/09.pdf)
-   * materiale:
-     * [progetti](https://centri.unibo.it/dharc/en/research/projects-at-dh-arc) del [Digital Humanities Advanced Research Centre](http://dharc.unibo.it) del FICLIT
-   <hr />
+    * slide: [Google Slides](https://tinyurl.com/bi1819-09) 
+    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/09.pdf)
+    * materiale:
+      * [progetti](https://centri.unibo.it/dharc/en/research/projects-at-dh-arc) del [Digital Humanities Advanced Research Centre](http://dharc.unibo.it) del FICLIT
+    <hr />
    
 
 ### Calendario
