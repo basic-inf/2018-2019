@@ -61,7 +61,7 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/08.pdf)
     * materiale:
       * [CSS Zen Garden](http://www.csszengarden.com/)
-      * [Esempio](material/example.html) di pagina HTML
+      * [Esempio](https://basic-inf.github.io/material/example.html) di pagina HTML
     <hr />
 
 11. [16/04/19] Le tecnologie informatiche nelle scienze umane
