@@ -70,6 +70,10 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     * materiale:
       * [progetti](https://centri.unibo.it/dharc/en/research/projects-at-dh-arc) del [Digital Humanities Advanced Research Centre](http://dharc.unibo.it) del FICLIT
     <hr />
+
+12. [07/05/19] Wrap-up
+    * slide: [Google Slides](https://tinyurl.com/bi1819-10)
+    <hr />
    
 
 ### Calendario
