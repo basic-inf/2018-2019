@@ -14,50 +14,50 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 Il libro del corso è interamente a disposizione sulla piattaforma di [Insegnamenti OnLine](https://iol.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. [19/03/19] Introduzione al corso
-   * slide: [Google Slides](https://tinyurl.com/bi1819-00)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/00.pdf)
    <hr />
    
 2. [19/03/19] Computer, pensiero computazionale e strutture dati 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-01)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/01.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/01.pdf) 
    <hr />
 
 3. [22/03/19] Algoritmi e computabilità 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-02)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/02.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/02.pdf) 
    <hr />
 
 4. [26/03/19] Linguaggi di programmazione 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-03)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/03.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/03.pdf) 
    <hr />
 
 5. [29/03/19] Cosa succede quando si clicca un un link: Il World Wide Web 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-04)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/04.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/04.pdf) 
    <hr />
 
 6. [02/04/19] Cosa succede quando si clicca un un link: I protocolli di comunicazione 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-05)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/05.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/05.pdf) 
    <hr />
 
 7. [05/04/19] Cosa succede quando si clicca un un link: Internet 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-06)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/06.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/06.pdf) 
    <hr />
 
 8. [09/04/19] Cosa succede quando si clicca un un link: Trasferire informazioni su Internet 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-07)
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/07.pdf)
    * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/07.pdf) 
    <hr />
 
 9. [12/04/19] Cosa succede quando si clicca un un link: Le pagine Web (1) 
-   * slide: [Google Slides](https://tinyurl.com/bi1819-08-1) 
+   * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/08-1.pdf) 
    <hr />
 
 10. [16/04/19] Cosa succede quando si clicca un un link: Le pagine Web (2)
-    * slide: [Google Slides](https://tinyurl.com/bi1819-08-2) 
+    * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/08-2.pdf) 
     * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/08.pdf)
     * materiale:
       * [CSS Zen Garden](http://www.csszengarden.com/)
@@ -65,14 +65,14 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Insegname
     <hr />
 
 11. [16/04/19] Le tecnologie informatiche nelle scienze umane
-    * slide: [Google Slides](https://tinyurl.com/bi1819-09) 
+    * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/09.pdf) 
     * capitolo: [PDF](https://basic-inf.github.io/2018-2019/chapters/09.pdf)
     * materiale:
       * [progetti](https://centri.unibo.it/dharc/en/research/projects-at-dh-arc) del [Digital Humanities Advanced Research Centre](http://dharc.unibo.it) del FICLIT
     <hr />
 
 12. [07/05/19] Wrap-up
-    * slide: [Google Slides](https://tinyurl.com/bi1819-10)
+    * slide: [PDF](https://basic-inf.github.io/2018-2019/slides/10.pdf)
     <hr />
    
 
